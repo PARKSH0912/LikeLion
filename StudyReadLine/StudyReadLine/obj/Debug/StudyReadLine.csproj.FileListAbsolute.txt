@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\StudyReadLine\StudyReadLine\bin\Debug\StudyReadLine.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\StudyReadLine\StudyReadLine\obj\Debug\StudyReadLine.pdb
