@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\Study5\Study5\bin\Debug\Study5.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\Study5\Study5\bin\Debug\Study5.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\Study5\Study5\bin\Debug\Study5.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\Study5\Study5\obj\Debug\Study5.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\Study5\Study5\obj\Debug\Study5.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\Study5\Study5\obj\Debug\Study5.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\Study5\Study5\obj\Debug\Study5.pdb
