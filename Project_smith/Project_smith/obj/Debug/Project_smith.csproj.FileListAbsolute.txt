@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\Project_smith\Project_smith\obj\Debug\Project_smith.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\Project_smith\Project_smith\obj\Debug\Project_smith.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\Project_smith\Project_smith\bin\Debug\Project_smith.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\Project_smith\Project_smith\bin\Debug\Project_smith.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\Project_smith\Project_smith\bin\Debug\Project_smith.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\Project_smith\Project_smith\obj\Debug\Project_smith.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\Project_smith\Project_smith\obj\Debug\Project_smith.pdb
