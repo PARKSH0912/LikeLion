@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\Adventurer_glow\Adventurer_glow\bin\Debug\Adventurer_glow.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\Adventurer_glow\Adventurer_glow\bin\Debug\Adventurer_glow.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\Adventurer_glow\Adventurer_glow\bin\Debug\Adventurer_glow.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\Adventurer_glow\Adventurer_glow\obj\Debug\Adventurer_glow.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\Adventurer_glow\Adventurer_glow\obj\Debug\Adventurer_glow.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\Adventurer_glow\Adventurer_glow\obj\Debug\Adventurer_glow.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\Adventurer_glow\Adventurer_glow\obj\Debug\Adventurer_glow.pdb
