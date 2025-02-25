@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\console_coordinate\console_coordinate\obj\Debug\console_coordinate.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\console_coordinate\console_coordinate\obj\Debug\console_coordinate.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\console_coordinate\console_coordinate\bin\Debug\console_coordinate.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\console_coordinate\console_coordinate\bin\Debug\console_coordinate.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\console_coordinate\console_coordinate\bin\Debug\console_coordinate.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\console_coordinate\console_coordinate\obj\Debug\console_coordinate.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\console_coordinate\console_coordinate\obj\Debug\console_coordinate.pdb
