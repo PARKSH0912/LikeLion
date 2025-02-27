@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_Inventory\0227_Inventory\obj\Debug\0227_Inventory.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_Inventory\0227_Inventory\obj\Debug\0227_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_Inventory\0227_Inventory\bin\Debug\0227_Inventory.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_Inventory\0227_Inventory\bin\Debug\0227_Inventory.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_Inventory\0227_Inventory\bin\Debug\0227_Inventory.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_Inventory\0227_Inventory\obj\Debug\0227_Inventory.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_Inventory\0227_Inventory\obj\Debug\0227_Inventory.pdb
