@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_ShootinGame\0227_ShootinGame\obj\Debug\0227_ShootinGame.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_ShootinGame\0227_ShootinGame\obj\Debug\0227_ShootinGame.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_ShootinGame\0227_ShootinGame\bin\Debug\0227_ShootinGame.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_ShootinGame\0227_ShootinGame\bin\Debug\0227_ShootinGame.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_ShootinGame\0227_ShootinGame\bin\Debug\0227_ShootinGame.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_ShootinGame\0227_ShootinGame\obj\Debug\0227_ShootinGame.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\0227_ShootinGame\0227_ShootinGame\obj\Debug\0227_ShootinGame.pdb
