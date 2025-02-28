@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\Shootinggmae1\Shootinggmae1\bin\Debug\Shootinggmae1.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\Shootinggmae1\Shootinggmae1\bin\Debug\Shootinggmae1.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\Shootinggmae1\Shootinggmae1\bin\Debug\Shootinggmae1.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\Shootinggmae1\Shootinggmae1\obj\Debug\Shootinggmae1.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\Shootinggmae1\Shootinggmae1\obj\Debug\Shootinggmae1.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\Shootinggmae1\Shootinggmae1\obj\Debug\Shootinggmae1.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\Shootinggmae1\Shootinggmae1\obj\Debug\Shootinggmae1.pdb
