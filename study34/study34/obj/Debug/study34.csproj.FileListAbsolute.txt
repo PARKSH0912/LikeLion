@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\study34\study34\bin\Debug\study34.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\study34\study34\bin\Debug\study34.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\study34\study34\bin\Debug\study34.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\study34\study34\obj\Debug\study34.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\study34\study34\obj\Debug\study34.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\study34\study34\obj\Debug\study34.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\study34\study34\obj\Debug\study34.pdb
