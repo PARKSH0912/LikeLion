@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\0305_report\0305_report\obj\Debug\0305_report.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\0305_report\0305_report\obj\Debug\0305_report.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\0305_report\0305_report\bin\Debug\0305_report.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\0305_report\0305_report\bin\Debug\0305_report.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\0305_report\0305_report\bin\Debug\0305_report.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\0305_report\0305_report\obj\Debug\0305_report.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\0305_report\0305_report\obj\Debug\0305_report.pdb
