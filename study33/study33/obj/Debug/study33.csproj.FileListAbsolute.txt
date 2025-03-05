@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\study33\study33\bin\Debug\study33.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\study33\study33\bin\Debug\study33.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\study33\study33\bin\Debug\study33.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\study33\study33\obj\Debug\study33.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\study33\study33\obj\Debug\study33.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\study33\study33\obj\Debug\study33.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\study33\study33\obj\Debug\study33.pdb
