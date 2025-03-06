@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\InterfaceExam2\InterfaceExam2\bin\Debug\InterfaceExam2.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\InterfaceExam2\InterfaceExam2\bin\Debug\InterfaceExam2.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\InterfaceExam2\InterfaceExam2\bin\Debug\InterfaceExam2.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\InterfaceExam2\InterfaceExam2\obj\Debug\InterfaceExam2.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\InterfaceExam2\InterfaceExam2\obj\Debug\InterfaceExam2.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\InterfaceExam2\InterfaceExam2\obj\Debug\InterfaceExam2.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\InterfaceExam2\InterfaceExam2\obj\Debug\InterfaceExam2.pdb
