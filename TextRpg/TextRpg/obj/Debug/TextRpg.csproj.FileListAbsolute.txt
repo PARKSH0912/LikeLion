@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\TextRpg\TextRpg\obj\Debug\TextRpg.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\TextRpg\TextRpg\obj\Debug\TextRpg.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\TextRpg\TextRpg\bin\Debug\TextRpg.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\TextRpg\TextRpg\bin\Debug\TextRpg.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\TextRpg\TextRpg\bin\Debug\TextRpg.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\TextRpg\TextRpg\obj\Debug\TextRpg.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\TextRpg\TextRpg\obj\Debug\TextRpg.pdb
