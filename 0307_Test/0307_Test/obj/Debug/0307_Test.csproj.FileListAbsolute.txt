@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\0307_Test\0307_Test\obj\Debug\0307_Test.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\0307_Test\0307_Test\obj\Debug\0307_Test.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\0307_Test\0307_Test\bin\Debug\0307_Test.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\0307_Test\0307_Test\bin\Debug\0307_Test.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\0307_Test\0307_Test\bin\Debug\0307_Test.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\0307_Test\0307_Test\obj\Debug\0307_Test.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\0307_Test\0307_Test\obj\Debug\0307_Test.pdb
