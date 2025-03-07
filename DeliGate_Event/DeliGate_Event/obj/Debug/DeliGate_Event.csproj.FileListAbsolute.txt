@@ -1,0 +1,7 @@
+C:\Users\odcob\Documents\GitHub\LikeLion\DeliGate_Event\DeliGate_Event\bin\Debug\DeliGate_Event.exe.config
+C:\Users\odcob\Documents\GitHub\LikeLion\DeliGate_Event\DeliGate_Event\bin\Debug\DeliGate_Event.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\DeliGate_Event\DeliGate_Event\bin\Debug\DeliGate_Event.pdb
+C:\Users\odcob\Documents\GitHub\LikeLion\DeliGate_Event\DeliGate_Event\obj\Debug\DeliGate_Event.csproj.AssemblyReference.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\DeliGate_Event\DeliGate_Event\obj\Debug\DeliGate_Event.csproj.CoreCompileInputs.cache
+C:\Users\odcob\Documents\GitHub\LikeLion\DeliGate_Event\DeliGate_Event\obj\Debug\DeliGate_Event.exe
+C:\Users\odcob\Documents\GitHub\LikeLion\DeliGate_Event\DeliGate_Event\obj\Debug\DeliGate_Event.pdb
