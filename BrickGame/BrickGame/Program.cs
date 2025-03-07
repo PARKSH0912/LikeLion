@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BrickGame
 {
-    class Program
+    public class Program
     {
         [DllImport("msvcrt.dll")]
 
@@ -21,28 +21,24 @@ namespace BrickGame
         }
         static void Main(string[] args)
         {
-
             Console.SetWindowSize(80, 25);
-            Console.SetBufferSize(80,25);
-
+            Console.SetBufferSize(80, 25);
+             
             GameManager gm = new GameManager();
+            gm.Initialize();
 
             int Curr = Environment.TickCount;
 
-
             while (true)
             {
-
                 if (Curr + 50 < Environment.TickCount)
                 {
                     Curr = Environment.TickCount;
 
                     gm.Progress();
-                    gm.Rendor();
+                    gm.Render();
                 }
             }
-
-
         }
     }
 }
